@@ -1,0 +1,21 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Label Maker RP",
+		"description": "TWF Label Maker Resource Pack",
+		"uuid": "622bc54d-8fb3-4570-814b-575c710ebc4d",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["TheWorldFoundry"]
+	},
+	"modules": [
+		{
+			"description": "Label Maker",
+			"type": "resources",
+			"uuid": "64989ea4-2c45-442a-a6d4-9cb168d6d618",
+			"version": [1, 0, 0]
+		}
+	]
+}

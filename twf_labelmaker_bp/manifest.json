@@ -1,0 +1,27 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Label Maker BP",
+		"description": "TWF Label Maker Behavior Pack",
+		"uuid": "e66c5e3c-0afd-4c25-92f0-4c8df8fd47b0",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["TheWorldFoundry"]
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "63643aa3-6e01-4607-b3b5-29243bc23c8d",
+			"type": "data"
+		}
+	],
+    "dependencies": [
+		{
+			"uuid": "622bc54d-8fb3-4570-814b-575c710ebc4d",
+			"version": [1, 0, 0]
+		}
+	]
+}
